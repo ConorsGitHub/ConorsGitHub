@@ -1,6 +1,5 @@
 ## Hi, I’m Conor
 
----
 
 ### A little about Me
 
