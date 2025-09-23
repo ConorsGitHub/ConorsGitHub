@@ -33,4 +33,4 @@
 
 ### 📊 Languages Wheel  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=conormorgan178&layout=donut&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConorsGitHub&layout=donut&theme=radical)
