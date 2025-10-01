@@ -4,10 +4,10 @@
 ### A little about Me
 
 🎓  I'm seeking a career in **Software engineering**.  
-🌱  I'm currently learning more about **Full-stack development, Machine Learning, Data manipulation**.  
+🌱  I'm currently experimenting and learning more about **Full-stack development, Machine Learning, Data manipulation**.  
 🏐  In my free time, I enjoy **volleyball, swimming, and Yu-gi-oh**.   
 ✉️  You can contact me with email at **conormorgan178@gmail.com** with a subject containing `"GitHub: "`.  
-📄  This is the code visualiser [website](https://codevisualiser.com) I published recently feel free to check it out!.  
+📄  This is the code visualiser [website](https://codevisualiser.com) I published recently feel free to check it out!  
 
 
 ---
